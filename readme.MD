@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HTML, CSS and React 😍🧡**
 
-- 📫 How to reach me **kontakt@danielchylinski.pl**
+- 📫 How to reach me **danielosd68@gmail.com**
 
 - ⚡ Fun fact **I started programming when I was going to 7-th class of primary school 🧑**
 

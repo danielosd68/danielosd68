@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">Junior Fullstack Engineer 🥰</h3>
+<h3 align="center">Fullstack Developer 🥰</h3>
 
 - 🔭 I’m currently working on **Database Management System**
 

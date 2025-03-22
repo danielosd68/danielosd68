@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">Fullstack Developer 🥰</h3>
 
-- 🔭 I’m currently working on **Database Management System**
+- 🔭 I’m currently working on **Quiz Creator App / Invoice generator App**
 
-- 🌱 I’m currently learning **Angular, PHP with Object Oriented Programming and project patterns 😎**
+- 🌱 I’m currently learning **PHP with Object Oriented Programming and project patterns 😎**
 
-- 💬 Ask me about **HTML, CSS and React 😍🧡**
+- 💬 Ask me about **React and JavaScript / TypeScript 😍🧡**
 
 - 📫 How to reach me **danielosd68@gmail.com**
 
